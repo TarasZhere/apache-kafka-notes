@@ -15,7 +15,7 @@ Kafka allows consumers to start fetching messages from any available offset. To 
 
 <center style="padding: 0 10%">
 
-![023ed2410673d7b705f2e5fae61a4943.png](../_resources/023ed2410673d7b705f2e5fae61a4943.png)
+![023ed2410673d7b705f2e5fae61a4943.png](./_resources/023ed2410673d7b705f2e5fae61a4943.png)
 
 </center>
 
@@ -32,7 +32,7 @@ Kafka stores messages for a set time and purges messages older than the retentio
 
 <center style="padding: 0 10%">
 
-![5a786a00ffff10c213306081cdf27f3c.png](../_resources/5a786a00ffff10c213306081cdf27f3c.png)
+![5a786a00ffff10c213306081cdf27f3c.png](./_resources/5a786a00ffff10c213306081cdf27f3c.png)
 
 </center>
 
@@ -59,7 +59,7 @@ Kafka supports such use cases by allowing the retention policy on a topic to be 
 
 <center style="padding: 0 5%">
 
-![d205e51a71892774923a3f3debd1c77f.png](../_resources/d205e51a71892774923a3f3debd1c77f.png)
+![d205e51a71892774923a3f3debd1c77f.png](./_resources/d205e51a71892774923a3f3debd1c77f.png)
 
 </center>
 
